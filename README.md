@@ -5,5 +5,5 @@
 ## 文章索引
 ### 2020
 [2020-02-12 Javascript commonly used methods for the data you should know #1
-](https://github.com/x8163don/blog/issues/1)
+](https://github.com/x8163don/blog/issues/1)    
 [2020-02-03 How to automatically deploy project build result to git-page?](https://github.com/x8163don/autodeploy-gh-pages-demo)
